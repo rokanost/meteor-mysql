@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'vlasky:mysql',
+  name: 'rokanost:mysql',
   summary: 'MySQL support with Reactive Select Subscriptions',
-  version: '1.2.6',
-  git: 'https://github.com/vlasky/meteor-mysql.git'
+  version: '1.2.7',
+  git: 'https://github.com/rokanost/meteor-mysql.git'
 });
 
 Npm.depends({
